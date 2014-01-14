@@ -1,0 +1,1 @@
+13/1/14 - Finish setting up all laptops with sync'd code, configure cRIO test run
